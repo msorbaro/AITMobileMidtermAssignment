@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SorbaroMidterm</string>
+    <string name="IncomeChange">Change to Income</string>
+    <string name="ExpenseChange">Change to Expense</string>
+    <string name="errorString">You did not enter the fields properly</string>
+    <string name="pinError">Wrong Pin, try Again!</string>
+    <string name="delete_all">Delete All</string>
+    <string name="summary_string">Summary Page</string>
+    <string name="change_to_income">Change to Income</string>
+    <string name="subm">Submit</string>
+    <string name="enter_your_pin">Enter your pin:</string>
+    <string name="back">Back</string>
+    <string name="andwallet">AndWallet</string>
+    <string name="this_view_shows_your_current_balance">This view shows your current balance:</string>
+    <string name="pin">5225</string>
+</resources>
